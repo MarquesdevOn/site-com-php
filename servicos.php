@@ -1,6 +1,10 @@
 <!-- Fazer o include -->
 
-<?php include "includes/cabecalho.php" ?>
+<?php 
+// variavel
+$titulo = "Serviços - ";
+include "includes/cabecalho.php"; 
+?>
 
             <h2>O que fazemos? </h2>
             <ol>

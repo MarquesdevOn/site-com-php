@@ -8,7 +8,8 @@
 </head>
 <body>
     <header class="text-center">
-        <h1>Site Exemplo</h1>
+        <!-- aqui chamamos a variavel do titulo -->
+        <h1> <?=$titulo?>Site</h1>
 
         <!-- fazer menu -->
         <nav> 

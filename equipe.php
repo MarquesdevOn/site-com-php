@@ -1,6 +1,10 @@
 <!-- fazer onclude -->
 
-<?php include "includes/cabecalho.php"  ?>
+<?php
+// variavel
+$titulo = "Equipe - "; 
+include "includes/cabecalho.php"; 
+?>
 
             <h2>Nossa equipe: </h2>
             <ul>
