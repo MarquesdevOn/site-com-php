@@ -9,11 +9,8 @@
                 <li>Jogos</li>
 
             </ol>
-        </article>
-    </main>
+ 
 
-    <footer>
-        <h2>Site criado como exemplo</h2>
-    </footer>
-</body>
-</html>
+<!-- include php -->
+
+<?php include "includes/rodape.php" ?>

@@ -10,11 +10,7 @@
                 <li>Sandy Bochechas</li>
                 <li>Seu Siriguejo</li>
             </ul>
-        </article>
-    </main>
+      
+<!-- include rodape -->
 
-    <footer>
-        <h2>Site criado como exemplo</h2>
-    </footer>
-</body>
-</html>
+<?php include "includes/rodape.php" ?>
