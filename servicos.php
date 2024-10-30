@@ -1,26 +1,14 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Serviços - Site</title>
-</head>
-<body>
-    <header>
-        <h1>Site Exemplo</h1>
+<!-- Fazer o include -->
 
-        <!-- fazer menu -->
-        <nav> 
-            <a href="">Home</a>
-            <a href="">Equipe</a>
-            <a href="">Serviços</a>
-        </nav>
-    </header>
+<?php include "includes/cabecalho.php" ?>
 
-    <main>
-        <article>
-            <h2>Bem-vindo(a)</h2>
-            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad, rem.</p>
+            <h2>O que fazemos? </h2>
+            <ol>
+                <li>Sites</li>
+                <li>Aplicativos</li>
+                <li>Jogos</li>
+
+            </ol>
         </article>
     </main>
 
