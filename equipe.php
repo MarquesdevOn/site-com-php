@@ -19,7 +19,7 @@
 
     <main>
         <article>
-            <h2>Nossa equipe</h2>
+            <h2>Nossa equipe: </h2>
             <ul>
                 <li>Bob Esponja</li>
                 <li>Lula Moluco</li>
