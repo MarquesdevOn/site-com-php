@@ -11,9 +11,9 @@
 
         <!-- fazer menu -->
         <nav> 
-            <a href="">Home</a>
-            <a href="">Equipe</a>
-            <a href="">Serviços</a>
+            <a href="index.php">Home</a>
+            <a href="equipe.php">Equipe</a>
+            <a href="servicos.php">Serviços</a>
         </nav>
     </header>
 
